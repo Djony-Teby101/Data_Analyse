@@ -1,0 +1,7 @@
+Magasin,Annee,Ville,Chiffre_Affaires
+A,2021,Paris,150000
+B,2021,Lyon,98000
+C,2021,Marseille,120000
+A,2022,Paris,180000
+B,2022,Lyon,105000
+C,2022,Marseille,135000
